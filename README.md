@@ -9,3 +9,5 @@ contact with me!
 Note: These need to be tested!
 
 [Email!](mailto:bernhardtjeremy@gmail.com)
+
+Sleeves for the Gergo and Gergoplex: [Github link](https://github.com/HID-Technologies/gheavy-sleeves)
